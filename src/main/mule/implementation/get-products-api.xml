@@ -11,10 +11,10 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-  productID: "12356",
+  productID: "76398y9323",
   productName: "MuleSoft 4.X Course for beginners",
   productProducer: "Udemy",
-  productDescription: "Complete mule developer course indepth "
+  productDescription: "Complete mule developer course in-depth "
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
