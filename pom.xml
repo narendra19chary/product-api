@@ -20,7 +20,7 @@
 	</properties>
 	<profiles>
 		<profile>
-			<id>develop</id>
+			<id>dev</id>
 			<build>
 				<plugins>
 
@@ -32,15 +32,15 @@
 						<configuration>
 							<cloudHubDeployment>
 								<applicationName>product-api-dev</applicationName>
-								<environment>develop</environment>
+								<environment>dev</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
 								<workerType>MICRO</workerType>
 								<properties>
-									<env>develop</env>
+									<env>dev</env>
 									<api.id>2164602</api.id>
-									<anypoint.platform.client_id>e788bb583922498d806d3740c118acf2</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>77FbD4C9FecE47A3B5e75bF10a4AC4Eb</anypoint.platform.client_secret>
+									<anypoint.platform.client_id>ab558b22ef8e45778e5326f5d900dd62</anypoint.platform.client_id>
+									<anypoint.platform.client_secret>992832de75A64433943764Edcf0cD7ef</anypoint.platform.client_secret>
 								</properties>
 							</cloudHubDeployment>
 						</configuration>
